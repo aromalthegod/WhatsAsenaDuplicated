@@ -206,7 +206,7 @@
             "DOWNLOADING": "```ഫയൽ ഇന്റർനെറ്റിൽ നിന്ന് കൊണക്കുന്നു ...```"
         },
         "system_stats": {
-            "ALIVE_DESC": "ബോട്ട് പ്രവർത്തിക്കുമോ??",
+            "ALIVE_DESC": "ഡാ thyli ഞാൻ വർക്ക്‌ ആവും",
             "SYSD_DESC": "സിസ്റ്റം പ്രോപ്പർട്ടികൾ കാണിക്കുന്നു."
         },
         "tagall": {
@@ -269,7 +269,7 @@
             "SPEEDTESTING": "```നെറ്റ്‌വർക്ക് വേഗത പരിശോധിക്കുന്നു...```",
             "SPEEDTEST_RESULT": "*വേഗത ​​പരീക്ഷ കഴിഞ്ഞു!*",
             "UPLOAD": "അപ്‌ലോഡ്",
-            "CALC": "ലളിതമായ ഗണിത പ്രവർത്തനങ്ങൾ നടത്തുന്നു.",
+            "CALC": "നിനക്ക് വേണ്ടി അക്കങ്ങൾ ഊമ്പുന്നു.",
             "SUC": "*കണക്കുകൂട്ടൽ പൂർത്തിയായി ✅*\n*ഫലമായി:* ",
             "UNSUC": "*കണക്കുകൂട്ടൽ പരാജയപ്പെട്ടു ❌*\n*പിശക്:* \n",
             "VALİD": "*ബാധകമായ രീതിയിൽ ഉപയോഗിക്കുക!* \n*.calc 1 + 2*\n*.calc 3 x 5*\n*.calc 10 / 5*\n*.calc 5 - 2*",
@@ -281,11 +281,11 @@
             "MP4TOAUDİO_DESC": "വീഡിയോയെ ശബ്‌ദത്തിലേക്ക് പരിവർത്തനം ചെയ്യുന്നു.",
             "MP4TOAUDİO_NEEDREPLY": "*നിങ്ങൾ വീഡിയോയോട് പ്രതികരിക്കണം!*",
             "MP4TOAUDİO": "```വീഡിയോ ഓഡിയോയിലേക്ക് പരിവർത്തനം ചെയ്‌തു..```",
-            "STİCKER_DESC": "ഇത് ഒരു സ്റ്റിക്കർ ഫോട്ടോയിലേക്ക് പരിവർത്തനം ചെയ്യുന്നു..",
+            "STİCKER_DESC": "ഇത് ഒരു സ്റ്റിക്കർ ഫോട്ടോയിലേക്ക് കൊണക്കുന്നു..",
             "ANİMATE": "```ആനിമേറ്റുചെയ്‌ത സ്റ്റിക്കർ വീഡിയോയിലേക്ക് പരിവർത്തനം ചെയ്യുന്നു..```",
             "STİCKER_NEEDREPLY": "*നിങ്ങൾ ഒരു സ്റ്റിക്കറിന് മറുപടി നൽകണം*",
-            "ANİM_STİCK": "ആനിമേറ്റുചെയ്‌ത സ്റ്റിക്കറുകൾ വീഡിയോയിലേക്ക് പരിവർത്തനം ചെയ്യുന്നു.",
-            "STİCKER": "```ഒരു സ്റ്റിക്കർ ഫോട്ടോയിലേക്ക് പരിവർത്തനം ചെയ്യുന്നു..```",
+            "ANİM_STİCK": "ആനിമേറ്റുചെയ്‌ത സ്റ്റിക്കറുകൾ വീഡിയോയിലേക്ക് ഊമ്പുന്നു.",
+            "STİCKER": "```ഒരു സ്റ്റിക്കർ ഫോട്ടോയിലേക്ക് കൊണക്കുന്നു..```",
             "XMEDİA_DESC": "25 ലധികം മീഡിയ ഉപകരണങ്ങളുള്ള ഒരു പ്ലഗിൻ ആണിത്.",
             "T_FALSE": "```❌ തെറ്റായ TBlend പ്രഭാവം നൽകി!```\n```🔎 നിലവിലുള്ള കമാൻഡുകൾ:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 നിങ്ങൾക്ക് ഏതെങ്കിലും TBlend ഇഫക്റ്റുകൾ നൽകേണ്ടതുണ്ട്!```\n```🔎 നിലവിലുള്ള കമാൻഡുകൾ:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
